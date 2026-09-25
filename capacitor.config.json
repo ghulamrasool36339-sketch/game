@@ -1,0 +1,8 @@
+{
+  "appId": "com.novastrike.spaceshooter",
+  "appName": "Nova Strike",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
